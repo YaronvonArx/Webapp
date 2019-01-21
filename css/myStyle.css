@@ -39,7 +39,7 @@ a:hover {
 
 img{
     clear: left;
-    width: 100%; /* 100%=Breite des Elternelements (hier body) */
+    width: 50%; /* 100%=Breite des Elternelements (hier body) */
 }
 
 p{
